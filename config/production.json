@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://connect:Connect123.com@cluster0.pakio.mongodb.net/connect?retryWrites=true&w=majority",
+  "jwtSecret": "This is my secret not yours",
+  "githubClientId": "567d383ac8a6cebec04a",
+  "githubClientSecret": "822c825baddffac142fb337d359dd235d5f6a7a5"
+}
